@@ -8,6 +8,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoricardodeOA\&include_all_commits=true&bg_color=000&text_color=FFF&rank_icon=percentile)
 
+![Classification](https://github-readme-stats.vercel.app/api?username=JoaoricardodeOA&bg_color=000&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoricardodeOA&layout=compact&bg_color=000&text_color=FFF&include_all_commits=true)
 
 
