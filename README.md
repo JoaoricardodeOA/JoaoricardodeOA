@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoricardodeOA, java developer, always learning...
 - 👀 I’m interested in web, desktop and any other applications
-- 🌱 I’m currently focusing on java web, but i'm always learning java, Javascript, PHP, javascript and SQL.
+- 🌱 I’m currently focusing on Web, but i'm always learning java, C#, Javascript, PHP, javascript and SQL.
 - 💞️ I’m looking to collaborate on java repositories
 - 📫 Send me messages at linkedin www.linkedin.com/in/joaoricardoagostinho
   
